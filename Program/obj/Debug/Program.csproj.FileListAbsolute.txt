@@ -1,0 +1,7 @@
+C:\Users\JohnChernoff\source\repos\Program\bin\Debug\Program.exe.config
+C:\Users\JohnChernoff\source\repos\Program\bin\Debug\Program.exe
+C:\Users\JohnChernoff\source\repos\Program\bin\Debug\Program.pdb
+C:\Users\JohnChernoff\source\repos\Program\obj\Debug\Program.csproj.AssemblyReference.cache
+C:\Users\JohnChernoff\source\repos\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\JohnChernoff\source\repos\Program\obj\Debug\Program.exe
+C:\Users\JohnChernoff\source\repos\Program\obj\Debug\Program.pdb

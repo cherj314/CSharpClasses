@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JohnChernoff\\source\\repos\\Program\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DC75D9E-AF23-46A7-B877-6EC6E15F2EC4}|Program.csproj|c:\\users\\johnchernoff\\source\\repos\\program\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DC75D9E-AF23-46A7-B877-6EC6E15F2EC4}|Program.csproj|solutionrelative:stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DC75D9E-AF23-46A7-B877-6EC6E15F2EC4}|Program.csproj|c:\\users\\johnchernoff\\source\\repos\\program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DC75D9E-AF23-46A7-B877-6EC6E15F2EC4}|Program.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JohnChernoff\\source\\repos\\Program\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\JohnChernoff\\source\\repos\\Program\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T17:13:17.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Stack.cs",
+              "DocumentMoniker": "C:\\Users\\JohnChernoff\\source\\repos\\Program\\Stack.cs",
+              "RelativeDocumentMoniker": "Stack.cs",
+              "ToolTip": "C:\\Users\\JohnChernoff\\source\\repos\\Program\\Stack.cs*",
+              "RelativeToolTip": "Stack.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T17:16:13.346Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
